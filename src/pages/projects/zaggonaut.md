@@ -5,7 +5,7 @@ description: A retro-inspired theme for Astro, built using TypeScript, TailwindC
 tags: ["astro", "portfolio", "open-source"]
 githubUrl: https://github.com/RATIU5/zaggonaut
 timestamp: 2025-02-24T02:39:03+00:00
-featured: true
+featured: false
 filename: zaggonaut
 ---
 

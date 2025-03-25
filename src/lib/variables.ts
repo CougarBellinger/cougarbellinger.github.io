@@ -8,9 +8,9 @@ export const GLOBAL = {
   longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
   
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: "https://github.com/cougarbellinger",
+  youtubePage: "https://www.youtube.com/playlist?list=PL4xyG3qVGH8Tbvyumns2cJdXKLulW0Eyd",
+  linkedinProfile: "https://www.linkedin.com/in/cougar-bellinger",
   
   // Common text names used throughout the site
   articlesName: "Articles",
