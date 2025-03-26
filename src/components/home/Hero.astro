@@ -20,14 +20,13 @@ import Anchor from "../common/Anchor.astro";
     >
       <p set:html={GLOBAL.shortDescription} />
     </h2>
-    <!-- throw button here to download resume -->
     <Anchor
-      url={"/pdfs/CougarBellingerResume_3_25.pdf"}
+      url="/pdfs/CougarBellingerResume_3_25.pdf"
       external
       download
-      class="text-center text-l font-mono sm:text-left"
+      class=""
     >
-      {"Resume"}
+      <p>Resume</p>
     </Anchor>
   </div>
 </div>
