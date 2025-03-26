@@ -4,7 +4,7 @@ export const GLOBAL = {
   // Site metadata
   username: "Cougar Bellinger",
   rootUrl: "https://cougarbellinger.dev",
-  shortDescription: "Software Engineer<br /> Lifetime Learner",
+  shortDescription: "Software Engineer",
   longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
   
   // Social media links
@@ -16,6 +16,8 @@ export const GLOBAL = {
   // Common text names used throughout the site
   projectsName: "Projects",
   aboutName: "About Me",
+  contactName: "Contact",
+  skillsName: "Skills",
   articlesName: "Articles",
   viewAll: "View All",
   
@@ -42,7 +44,7 @@ export const GLOBAL = {
     about: "/about",
     projects: "/projects",
     skills: "/skills",
-    //contact: "/contact"
+    contact: "/contact"
     // blog: "/blog",
   }
 };

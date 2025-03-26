@@ -1,43 +1,41 @@
 ---
-import { GLOBAL } from "../../lib/variables";
 import Layout from "../../layouts/Layout.astro";
-import ArticleSnippet from "../../components/ArticleSnippet.astro";
 import Section from "../../components/common/Section.astro";
-import { articles } from "../../lib/list";
+import { GLOBAL } from "../../lib/variables";
 ---
 
 <Layout>
   <Fragment slot="head">
-    <title>{GLOBAL.blogTitle} • {GLOBAL.username}</title>
-    <meta name="description" content={GLOBAL.blogLongDescription} />
+    <title>{GLOBAL.projectTitle} • {GLOBAL.username}</title>
+    <meta name="description" content={GLOBAL.projectLongDescription} />
     <meta
       property="og:title"
-      content={`${GLOBAL.blogTitle} • ${GLOBAL.username}`}
+      content={`${GLOBAL.projectTitle} • ${GLOBAL.username}`}
     />
-    <meta property="og:description" content={GLOBAL.blogShortDescription} />
+    <meta property="og:description" content={GLOBAL.projectShortDescription} />
     <meta
       property="og:image"
       content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
     />
-    <meta property="og:url" content={`${GLOBAL.rootUrl}/blog`} />
+    <meta property="og:url" content={`${GLOBAL.rootUrl}/projects`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content={`${GLOBAL.blogTitle} • ${GLOBAL.username}`}
+      content={`${GLOBAL.projectTitle} • ${GLOBAL.username}`}
     />
-    <meta name="twitter:description" content={GLOBAL.blogShortDescription} />
+    <meta name="twitter:description" content={GLOBAL.projectShortDescription} />
     <meta
       name="twitter:image"
       content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
     />
     <meta http-equiv="content-language" content="en" />
     <meta name="language" content="English" />
-    <link rel="canonical" href={`${GLOBAL.rootUrl}/blog`} />
+    <link rel="canonical" href={`${GLOBAL.rootUrl}/projects`} />
   </Fragment>
   <Section class="my-8">
     <div class="flex items-center gap-4 pt-8 pb-16">
       <h1 class="font-display text-3xl sm:text-4xl leading-loose">
-        {GLOBAL.aboutName}
+        {GLOBAL.contactName}
       </h1>
     </div>
     <h3>Section Under Construction</h3>
