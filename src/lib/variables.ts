@@ -45,6 +45,5 @@ export const GLOBAL = {
     projects: "/projects",
     skills: "/skills",
     contact: "/contact"
-    // blog: "/blog",
   }
 };
