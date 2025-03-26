@@ -11,10 +11,12 @@ export const GLOBAL = {
   githubProfile: "https://github.com/cougarbellinger",
   youtubePage: "https://www.youtube.com/playlist?list=PL4xyG3qVGH8Tbvyumns2cJdXKLulW0Eyd",
   linkedinProfile: "https://www.linkedin.com/in/cougar-bellinger",
+  gmailLink: "https://mail.google.com/mail/?view=cm&fs=1&to=cougarbellinger@gmail.com&su=SUBJECT&body=BODY",
   
   // Common text names used throughout the site
-  articlesName: "Articles",
   projectsName: "Projects",
+  aboutName: "About Me",
+  articlesName: "Articles",
   viewAll: "View All",
   
   // Common descriptions used throughout the site
@@ -29,7 +31,7 @@ export const GLOBAL = {
   // Project metadata
   projectTitle: "Projects and Code",
   projectShortDescription: "A list of my web development projects and developer tools.",
-  projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
+  projectLongDescription: "All of my projects, including both backend and full-stack applications.",
 
   // Profile image
   profileImage: "cougar-bellinger-headshot.webp",
@@ -40,6 +42,7 @@ export const GLOBAL = {
     about: "/about",
     projects: "/projects",
     skills: "/skills",
+    //contact: "/contact"
     // blog: "/blog",
   }
 };

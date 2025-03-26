@@ -2,7 +2,11 @@
 
 ---
 
-<button class="border-none bg-none focus:outline-2 focus:outline-offset-2 focus:outline-zag-dark dark:focus:outline-zag-light" id="themeToggle" aria-label="Theme Toggle">
+<button
+  class="border-none bg-none focus:outline-2 focus:outline-offset-2 focus:outline-zag-dark dark:focus:outline-zag-light"
+  id="themeToggle"
+  aria-label="Theme Toggle"
+>
   <svg
     width="30px"
     xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +29,12 @@
 <script is:inline>
   const theme = (() => {
     if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
-      return localStorage.getItem("theme") ?? "light";
+      return localStorage.getItem("theme") ?? "dark";
     }
-    if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-      return "dark";
+    if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+      return "light";
     }
-    return "light";
+    return "dark";
   })();
 
   if (theme === "light") {

@@ -1,3 +1,7 @@
+export type AboutFrontMatter = {
+  description: string;
+}
+
 export type ProjectFrontmatter = {
   /**
    * The title of the project
