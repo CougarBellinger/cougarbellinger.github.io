@@ -5,7 +5,7 @@ export const GLOBAL = {
   username: "Cougar Bellinger",
   rootUrl: "https://cougarbellinger.dev",
   shortDescription: "Software Engineer",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
+  longDescription: "Living website to store resume, portfolio, and more about myself",
   
   // Social media links
   githubProfile: "https://github.com/cougarbellinger",
