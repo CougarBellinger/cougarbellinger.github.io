@@ -4,7 +4,7 @@ title: Portfolio Website
 description: Personal website developed with Astro, hosted on GitHub pages, and continously deployed with GitHub Actions.
 tags: ["Astro", "GitHub Actions", "Open-Source"]
 githubUrl: https://github.com/cougarbellinger/cougarbellinger.github.io
-timestamp: 2025-03-26T02:39:03+00:00
+timestamp: 2025-03-27T02:39:03+00:00
 featured: true
 filename: portfolio
 ---
