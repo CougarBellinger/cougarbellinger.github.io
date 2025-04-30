@@ -2,7 +2,7 @@
 layout: ../../layouts/ProjectLayout.astro
 title: "Travel Buddy | UA Hackathon 2025" 
 description:  AI Powered Trip Planning Tool built with django, open ai, and deployed on AWS E2C
-tags: ["OpenAI", "AWS Cloud", "Django"]
+tags: ["Django", "OpenAI", "AWS Cloud"]
 githubUrl: https://github.com/CougarBellinger/HackUA2025
 timestamp: 2025-03-26T02:39:03+00:00
 featured: true
