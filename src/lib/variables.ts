@@ -30,6 +30,11 @@ export const GLOBAL = {
   blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
   blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
 
+  // About metadata
+  aboutTitle: "About Me",
+  aboutShortDescription: "Summary of who I am.",
+  aboutLongDescription: "Summary of who I am, where I come from, and what I want to do.",
+
   // Project metadata
   projectTitle: "Projects and Code",
   projectShortDescription: "A list of my web development projects and developer tools.",
@@ -44,7 +49,7 @@ export const GLOBAL = {
   // Menu items
   menu: {
     home: "/",
-    // about: "/about",
+    about: "/about",
     projects: "/projects",
     // skills: "/skills",
     // contact: "/contact"
