@@ -1,5 +1,8 @@
 export type AboutFrontMatter = {
+  title: string;
   description: string;
+  featured?: boolean;
+  filename: string;
 }
 
 export type ProjectFrontmatter = {

@@ -86,7 +86,7 @@ export const processArticleDate = (timestamp: string) => {
  */
 export const generateSourceUrl = (
   sourceUrl: string,
-  contentType: "projects" | "blog",
+  contentType: "projects" | "blog" | "about",
 ) => {
   return `${GLOBAL.rootUrl}/${contentType}/${sourceUrl}`;
 };
