@@ -30,6 +30,11 @@ export const GLOBAL = {
   blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
   blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
 
+  // About metadata
+  aboutTitle: "About Me",
+  aboutShortDescription: "Summary of who I am.",
+  aboutLongDescription: "Summary of who I am, where I come from, and what I want to do.",
+
   // Project metadata
   projectTitle: "Projects and Code",
   projectShortDescription: "A list of my web development projects and developer tools.",
@@ -39,7 +44,7 @@ export const GLOBAL = {
   profileImage: "cougar-bellinger-headshot.webp",
 
   // Resume PDF
-  resumePDF: "CougarBellingerResume_3_25.pdf",
+  resumePDF: "/resume/CougarBellinger_resume_11Jun25.pdf",
 
   // Menu items
   menu: {
