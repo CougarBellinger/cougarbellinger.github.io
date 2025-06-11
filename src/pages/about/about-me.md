@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/AboutLayout.astro
 title: About Me
-description: Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex
+description: "Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex
 technical projects. Proven track record of producing over 300 community events, including innovative STEAM
 education programs for underserved communities through Human Impact Productions. Combines strong technical
-foundation with exceptional project management skills and a passion for leveraging technology for social good.
+foundation with exceptional project management skills and a passion for leveraging technology for social good."
 featured: true
 filename: about-me
 ---
