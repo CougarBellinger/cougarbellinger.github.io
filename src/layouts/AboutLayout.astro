@@ -54,14 +54,10 @@ const sourceUrl = generateSourceUrl(frontmatter.filename, "about");
             >
                 {frontmatter.title}
             </h1>
-            <!-- <div class='flex justify-between'>
-                <span>{articleDate}</span>
-                <span>{frontmatter.time} min</span>
-            </div> -->
         </div>
         <Prose>
             <slot />
         </Prose>
-        <!-- <p class='pt-8'>~{GLOBAL.username}</p> -->
+        <p class='pt-8'>~{GLOBAL.username}</p>
     </Section>
 </Layout>

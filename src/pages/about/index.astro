@@ -3,12 +3,14 @@ import { GLOBAL } from "../../lib/variables";
 import Layout from "../../layouts/Layout.astro";
 import Section from "../../components/common/Section.astro";
 import Prose from "../../components/Prose.astro";
+
+import {Content as AboutContent} from "./about-me.md";
 ---
 
 <Layout>
     <Fragment slot='head'>
         <title>{GLOBAL.aboutTitle} • {GLOBAL.username}</title>
-        <meta name='description' content={GLOBAL.blogLongDescription} />
+        <meta name='description' content={GLOBAL.aboutLongDescription} />
         <meta
             property='og:title'
             content={`${GLOBAL.aboutTitle} • ${GLOBAL.username}`}
@@ -46,7 +48,7 @@ import Prose from "../../components/Prose.astro";
             </h1>
         </div>
         <Prose>
-          <slot/>
+          <AboutContent/>
         </Prose>
     </Section>
 </Layout>
