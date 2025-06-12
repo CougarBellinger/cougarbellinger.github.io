@@ -49,7 +49,7 @@ export const GLOBAL = {
   // Menu items
   menu: {
     home: "/",
-    // about: "/about",
+    about: "/about/about-me",
     projects: "/projects",
     // skills: "/skills",
     // contact: "/contact"
