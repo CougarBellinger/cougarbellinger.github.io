@@ -20,6 +20,7 @@ export const GLOBAL = {
   skillsName: "Skills",
   articlesName: "Articles",
   viewAll: "View All",
+  viewMore: "View More",
   
   // Common descriptions used throughout the site
   noArticles: "No featured articles yet.",
@@ -49,7 +50,7 @@ export const GLOBAL = {
   // Menu items
   menu: {
     home: "/",
-    about: "/about/about-me",
+    about: "/about",
     projects: "/projects",
     // skills: "/skills",
     // contact: "/contact"
