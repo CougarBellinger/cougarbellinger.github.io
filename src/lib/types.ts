@@ -1,6 +1,7 @@
 export type AboutFrontMatter = {
   title: string;
   description: string;
+  featuredSnippet: string;
   featured?: boolean;
   filename: string;
 }

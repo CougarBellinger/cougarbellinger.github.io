@@ -1,0 +1,16 @@
+---
+import { GLOBAL } from "../../lib/variables";
+import Anchor from "../common/Anchor.astro";
+import * as aboutMD from "../../pages/about/about.md";
+---
+
+<div class='flex justify-between items-center w-full'>
+    <h3 class='font-display text-lg sm:text-xl leading-loose'>
+        {GLOBAL.aboutName}
+    </h3>
+    <Anchor url='/about' class='text-base'>{GLOBAL.viewMore}</Anchor>
+</div>
+
+<p class="my-8">
+    {aboutMD.frontmatter.featuredSnippet}
+</p>

@@ -1,12 +1,9 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: About Me
-description: "Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex
-technical projects. Proven track record of producing over 300 community events, including innovative STEAM
-education programs for underserved communities through Human Impact Productions. Combines strong technical
-foundation with exceptional project management skills and a passion for leveraging technology for social good."
+description: Who I am, What I do, Where I want to be.
+featuredSnippet: Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex technical projects. Proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. Combines strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good.
 featured: true
-filename: about-me
+filename: about
 ---
 
 I descend from a family of educators, social impact activists, and entrepreneurs. From a young age, I enjoyed joining my father within his community impact work and had a natural curiosity which I expressed towards music, gaming, and technology. Although I still love creating music and gaming with my friends, I have focused that same curiosity towards engineering and social impact through my father’s and my company, Human Impact Productions (SBGD/HIP Enterprise), and our STEAM Labs Programs. I am fascinated by bringing complex ideas to life, working with others, and sharing my experience with the younger generations.
