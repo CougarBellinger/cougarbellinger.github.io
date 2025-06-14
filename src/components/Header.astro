@@ -2,6 +2,8 @@
 import { GLOBAL } from "../lib/variables";
 import Anchor from "./common/Anchor.astro";
 import ThemeToggle from "./ThemeToggle.astro";
+
+const currUrl = Astro.url.pathname;
 ---
 
 <header class="zag-bg zag-border-b zag-transition sticky top-0 w-full z-10">
@@ -28,7 +30,7 @@ import ThemeToggle from "./ThemeToggle.astro";
     >
       {
         Object.entries(GLOBAL.menu).map((i) => (
-          <Anchor url={i[1]}>{i[0]}</Anchor>
+          <Anchor url={i[1]} class={currUrl === (i[1]) ? "dark:decoration-zag-accent-dark decoration-zag-accent-light" : ""}>{i[0]}</Anchor>
         ))
       }
     </div>
