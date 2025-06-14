@@ -7,7 +7,7 @@ timestamp: 2025-5-1T02:39:03+00:00
 featured: true
 filename: pfms
 ---
-<img src="/images/pfms-screenshot.png">
+<img src="/pfms-screenshot.png">
 
 # About
 Web application system developed for personal financial management. Built using DevSecOps methodology, specifically using CI/CD pipelines in GitLab to lint, test, and build the application.
