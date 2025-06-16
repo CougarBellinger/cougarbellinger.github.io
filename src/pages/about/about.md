@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: Who I am, What I do, Where I want to be.
-featuredSnippet: Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex technical projects. Proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. Combines strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good.
+featuredSnippet: Hi! I'm Cougar, a Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be pursuing my Master's degree in Engineering Management starting in 2026, and I am actively job searching! 
 featured: true
 filename: about
 ---
@@ -10,6 +10,9 @@ I descend from a family of educators, social impact activists, and entrepreneurs
 
 In 2025, I will be graduating with my BS in Software Engineering, providing leadership assistance with our company’s growth, and preparing for graduate school in Systems Engineering beginning in 2026. 
 
-As previously mentioned, I was heavily involved in music during my childhood. I have been playing in bands since I was 9 years old, and since my dad was active in the philanthropy scene of Tucson, I was always either helping him produce events for non-profits or performing at those events. By the time I was 16, I had volunteered at over 60 events throughout the southwest. This experience earned me the Outstanding Youth in Philanthropy award given by the Associate of Fundraising Professionals in 2018. Simultaneously, I was inducted to the Tucson’s Musicians Museum Hall and Fame as the Up and Coming Musician of the year. I followed this momentum into the Summer of 2019, in which I co-founded and produced the Tribal Nations Music Tour (now known as the SBGD/HIP Enterprise Tribal Nations Reach Productions) bringing entertainment and STEAM Labs development to under-discovered indigenous communities. As of now, I have produced over 300 social impact events and plan to do many more!
+As previously mentioned, I was heavily involved in music during my childhood. I have been playing in bands since I was 9 years old, and since my dad was active in the philanthropy scene of Tucson, I was always either helping him produce events for non-profits or performing at those events. By the time I was 16, I had volunteered at over 60 events throughout the southwest.
+
+<img src="/AFP_award.webp" alt="Image showing Cougar giving speech at AFP award ceremony" class="float-right w-1/3 mx-5"/> This experience earned me the Outstanding Youth in Philanthropy award given by the Associate of Fundraising Professionals in 2018. Simultaneously, I was inducted to the Tucson’s Musicians Museum Hall and Fame as the Up and Coming Musician of the year. I followed this momentum into the Summer of 2019, in which I co-founded and produced the Tribal Nations Music Tour (now known as the SBGD/HIP Enterprise Tribal Nations Reach Productions) bringing entertainment and STEAM Labs development to under-discovered indigenous communities. As of now, I have produced over 300 social impact events and plan to do many more!
+
 
 In the last 5 years, I have explored the STEM economic and employment opportunities within the entertainment and sports industries, researching and attending conferences relating to the music sync industry, music/sound production, and live audio/video systems.
