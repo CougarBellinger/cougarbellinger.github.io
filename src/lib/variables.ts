@@ -50,8 +50,8 @@ export const GLOBAL = {
   // Menu items
   menu: {
     home: "/",
-    about: "/about",
-    projects: "/projects",
+    about: "/about/",
+    projects: "/projects/",
     // skills: "/skills",
     // contact: "/contact"
   }
