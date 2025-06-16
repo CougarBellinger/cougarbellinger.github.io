@@ -20,8 +20,8 @@ export const GLOBAL = {
   skillsName: "Skills",
   articlesName: "Articles",
   viewAll: "View All",
-  viewMore: "View More",
-  
+  readMore: "Read More",
+
   // Common descriptions used throughout the site
   noArticles: "No featured articles yet.",
   noProjects: "No featured projects yet.",
