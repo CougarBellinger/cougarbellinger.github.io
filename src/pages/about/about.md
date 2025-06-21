@@ -1,14 +1,14 @@
 ---
 title: About Me
 description: Who I am, What I do, Where I want to be.
-featuredSnippet: Hi! I'm Cougar, a Software Engineering student with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be pursuing my Master's degree in Engineering Management starting in 2026, and I am actively job searching! 
+featuredSnippet: Hi! I'm Cougar, a Software Engineer with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be earning my Bachelor's degree in August and pursuing my Master's degree in Engineering Management starting in 2026. I am actively job searching, so please feel free to reach out if you want to share any opportunities!
 featured: true
 filename: about
 ---
 
 I descend from a family of educators, social impact activists, and entrepreneurs. From a young age, I enjoyed joining my father within his community impact work and had a natural curiosity which I expressed towards music, gaming, and technology. Although I still love creating music and gaming with my friends, I have focused that same curiosity towards engineering and social impact through my father’s and my company, Human Impact Productions (SBGD/HIP Enterprise), and our STEAM Labs Programs. I am fascinated by bringing complex ideas to life, working with others, and sharing my experience with the younger generations.
 
-In 2025, I will be graduating with my BS in Software Engineering, providing leadership assistance with our company’s growth, and preparing for graduate school in Systems Engineering beginning in 2026. 
+In 2025, I will be graduating with my BS in Software Engineering, providing leadership assistance with our company’s growth, and preparing for graduate school in Engineering Management beginning in 2026. 
 
 As previously mentioned, I was heavily involved in music during my childhood. I have been playing in bands since I was 9 years old, and since my dad was active in the philanthropy scene of Tucson, I was always either helping him produce events for non-profits or performing at those events. By the time I was 16, I had volunteered at over 60 events throughout the southwest.
 
