@@ -45,7 +45,7 @@ export const GLOBAL = {
   profileImage: "cougar-bellinger-headshot.webp",
 
   // Resume PDF
-  resumePDF: "/resume/cougarbellinger_resume_25Sep25.pdf",
+  resumePDF: "/resume/cougarbellinger_resume_23Jan26.pdf",
 
   // Menu items
   menu: {

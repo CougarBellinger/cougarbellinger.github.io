@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: Who I am, What I do, Where I want to be.
-featuredSnippet: Hi! I'm Cougar, a Software Engineer with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be earning my Bachelor's degree in December of 2025 and pursuing my Master's degree in Engineering Management starting in 2026. I am actively job searching, so please feel free to reach out if you want to share any opportunities!
+featuredSnippet: Hi! I'm Cougar, a Software Engineer with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be earning my Bachelor's degree in May of 2026 and pursuing my Master's degree in Engineering Management starting in late 2026. I am actively job searching, so please feel free to reach out if you want to share any opportunities!
 featured: true
 filename: about
 ---
