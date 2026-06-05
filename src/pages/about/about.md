@@ -8,7 +8,7 @@ filename: about
 
 I descend from a family of educators, social impact activists, and entrepreneurs. From a young age, I enjoyed joining my father within his community impact work and had a natural curiosity which I expressed towards music, gaming, and technology. Although I still love creating music and gaming with my friends, I have focused that same curiosity towards engineering and social impact through my father’s and my company, Human Impact Productions (SBGD/HIP Enterprise), and our STEAM Labs Programs. I am fascinated by bringing complex ideas to life, working with others, and sharing my experience with the younger generations.
 
-In May of 2026, I will be graduating with my BS in Software Engineering. 
+In May of 2026, I graduated with my BS in Software Engineering. 
 
 As previously mentioned, I was heavily involved in music during my childhood. I have been playing in bands since I was 9 years old, and since my dad was active in the philanthropy scene of Tucson, I was always either helping him produce events for non-profits or performing at those events. By the time I was 16, I had volunteered at over 60 events throughout the southwest.
 
