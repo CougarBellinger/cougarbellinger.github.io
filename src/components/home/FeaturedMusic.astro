@@ -1,0 +1,39 @@
+---
+import { GLOBAL } from "../../lib/variables";
+---
+
+<div class="flex justify-between items-center w-full">
+  <h3 class="font-display text-lg sm:text-xl leading-loose">{GLOBAL.musicName}</h3>
+  <a
+    href="/music/"
+    class="zag-offset underline font-medium hover:text-zag-accent-light dark:hover:text-zag-accent-dark"
+  >
+    Explore Music
+  </a>
+</div>
+
+<p class="my-6">
+  I play drums with Tonight's Sunshine and SlowKill, and I'm developing my
+  music production practice. Listen to my bands and personal music.
+</p>
+
+<div class="grid gap-3 sm:grid-cols-3">
+  <a
+    href="/music/#tonights-sunshine"
+    class="block border-2 border-zag-dark dark:border-zag-light bg-emerald-100 dark:bg-emerald-950 p-4 hover:border-zag-accent-light dark:hover:border-zag-accent-dark"
+  >
+    Tonight's Sunshine
+  </a>
+  <a
+    href="/music/#slowkill"
+    class="block border-2 border-zag-dark dark:border-zag-light bg-sky-100 dark:bg-sky-950 p-4 hover:border-zag-accent-light dark:hover:border-zag-accent-dark"
+  >
+    SlowKill
+  </a>
+  <a
+    href="/music/#solo-music"
+    class="block border-2 border-zag-dark dark:border-zag-light bg-amber-100 dark:bg-amber-950 p-4 hover:border-zag-accent-light dark:hover:border-zag-accent-dark"
+  >
+    Solo music
+  </a>
+</div>

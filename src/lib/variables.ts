@@ -4,8 +4,9 @@ export const GLOBAL = {
   // Site metadata
   username: "Cougar Bellinger",
   rootUrl: "https://cougarbellinger.dev",
-  shortDescription: "Software Engineer",
-  longDescription: "Living website to store resume, portfolio, and more about myself",
+  shortDescription: "Software Engineer & Musician",
+  longDescription:
+    "Software engineering graduate, drummer for Tonight's Sunshine and SlowKill, and developing music producer.",
   
   // Social media links
   githubProfile: "https://github.com/cougarbellinger",
@@ -16,6 +17,7 @@ export const GLOBAL = {
   // Common text names used throughout the site
   projectsName: "Projects",
   aboutName: "About Me",
+  musicName: "Music",
   contactName: "Contact",
   skillsName: "Skills",
   articlesName: "Articles",
@@ -41,6 +43,13 @@ export const GLOBAL = {
   projectShortDescription: "A list of my web development projects and developer tools.",
   projectLongDescription: "All of my projects, including both backend and full-stack applications.",
 
+  // Music metadata
+  musicTitle: "Music & Production",
+  musicShortDescription:
+    "Drumming, recording credits, and personal music by Cougar Bellinger.",
+  musicLongDescription:
+    "Explore Cougar Bellinger's work as a drummer with Tonight's Sunshine and SlowKill, personal music, and developing production practice.",
+
   // Profile image
   profileImage: "cougar-bellinger-headshot.webp",
 
@@ -51,6 +60,7 @@ export const GLOBAL = {
   menu: {
     home: "/",
     about: "/about/",
+    music: "/music/",
     projects: "/projects/",
     // skills: "/skills",
     // contact: "/contact"
