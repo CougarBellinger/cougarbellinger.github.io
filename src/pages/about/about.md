@@ -1,18 +1,19 @@
 ---
 title: About Me
-description: Who I am, What I do, Where I want to be.
-featuredSnippet: Hi! I'm Cougar, a Software Engineer with 5+ years of experience leading social impact initiatives and managing complex technical projects. I have a proven track record of producing over 300 community events, including innovative STEAM education programs for underserved communities through Human Impact Productions. I combine strong technical foundation with exceptional project management skills and a passion for leveraging technology for social good. I will be earning my Bachelor's degree in May of 2026. I am actively job searching, so please feel free to reach out if you want to share any opportunities!
+description: Software engineer, drummer, and developing music producer.
+featuredSnippet: I'm a software engineering graduate, drummer, and developing music producer. I perform and record with Tonight's Sunshine and SlowKill, and I'm seeking a part-time, entry-level software role. I plan to begin Berklee Online's Master of Music, Music Production Degree in January 2027.
 featured: true
 filename: about
 ---
 
-I descend from a family of educators, social impact activists, and entrepreneurs. From a young age, I enjoyed joining my father within his community impact work and had a natural curiosity which I expressed towards music, gaming, and technology. Although I still love creating music and gaming with my friends, I have focused that same curiosity towards engineering and social impact through my father’s and my company, Human Impact Productions (SBGD/HIP Enterprise), and our STEAM Labs Programs. I am fascinated by bringing complex ideas to life, working with others, and sharing my experience with the younger generations.
+I'm a software engineering graduate, musician, and community event producer. I graduated with my BS in Software Engineering in May 2026 and am currently looking for a part-time, entry-level software role.
 
-In May of 2026, I graduated with my BS in Software Engineering. 
+Music has been part of my life since I began playing in bands at age nine. I currently perform with Tonight's Sunshine and SlowKill, and I play drums on their recordings. I played on all of Tonight's Sunshine's released tracks except "Song for a Savers Parking Lot," and on all of SlowKill's released tracks. Visit my [music page](/music/) for recordings and links.
 
-As previously mentioned, I was heavily involved in music during my childhood. I have been playing in bands since I was 9 years old, and since my dad was active in the philanthropy scene of Tucson, I was always either helping him produce events for non-profits or performing at those events. By the time I was 16, I had volunteered at over 60 events throughout the southwest.
+Alongside performing, I have hobby experience with tracking, arranging, editing, mixing, and mastering using FL Studio and Ableton. I plan to begin Berklee Online's Master of Music, Music Production Degree in January 2027.
 
-<img src="/AFP_award.webp" alt="Image showing Cougar giving speech at AFP award ceremony" class="float-right w-1/3 mx-5"/> This experience earned me the Outstanding Youth in Philanthropy award given by the Associate of Fundraising Professionals in 2018. Simultaneously, I was inducted to the Tucson’s Musicians Museum Hall and Fame as the Up and Coming Musician of the year. I followed this momentum into the Summer of 2019, in which I co-founded and produced the Tribal Nations Music Tour (now known as the SBGD/HIP Enterprise Tribal Nations Reach Productions) bringing entertainment and STEAM Labs development to under-discovered indigenous communities. As of now, I have produced over 300 social impact events and plan to do many more!
+I come from a family of educators, social impact advocates, and entrepreneurs. Growing up, I joined my father in community impact work and developed an interest in music, gaming, and technology. I have carried that curiosity into engineering and social impact work through Human Impact Productions (SBGD/HIP Enterprise) and its STEAM Labs programs.
 
+As a teenager, I performed at nonprofit events and volunteered at more than 60 events across the Southwest. In 2018, I received the Outstanding Youth in Philanthropy award from the Association of Fundraising Professionals and was inducted into the Tucson Musicians Museum Hall of Fame as Up and Coming Musician of the Year. In 2019, I co-founded and produced the Tribal Nations Music Tour, now known as SBGD/HIP Enterprise Tribal Nations Reach Productions, bringing entertainment and STEAM Labs to Indigenous communities. I have since produced more than 300 social impact events.
 
-In the last 5 years, I have explored the STEM economic and employment opportunities within the entertainment and sports industries, researching and attending conferences relating to the music sync industry, music/sound production, and live audio/video systems.
+Over the past five years, I have explored STEM careers in entertainment and sports, including music sync, music and sound production, and live audio/video systems.

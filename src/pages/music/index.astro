@@ -1,0 +1,240 @@
+---
+import { GLOBAL } from "../../lib/variables";
+import Layout from "../../layouts/Layout.astro";
+import Section from "../../components/common/Section.astro";
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{GLOBAL.musicTitle} • {GLOBAL.username}</title>
+    <meta name="description" content={GLOBAL.musicLongDescription} />
+    <meta
+      property="og:title"
+      content={`${GLOBAL.musicTitle} • ${GLOBAL.username}`}
+    />
+    <meta property="og:description" content={GLOBAL.musicShortDescription} />
+    <meta
+      property="og:image"
+      content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
+    />
+    <meta property="og:url" content={`${GLOBAL.rootUrl}/music`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content={`${GLOBAL.musicTitle} • ${GLOBAL.username}`}
+    />
+    <meta name="twitter:description" content={GLOBAL.musicShortDescription} />
+    <meta
+      name="twitter:image"
+      content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
+    />
+    <link rel="canonical" href={`${GLOBAL.rootUrl}/music`} />
+  </Fragment>
+
+  <Section class="py-4 my-8">
+    <div class="pt-8 pb-10">
+      <h1 class="font-display text-3xl sm:text-4xl leading-loose">
+        {GLOBAL.musicTitle}
+      </h1>
+      <p class="mt-6 max-w-2xl">
+        I'm a drummer and developing music producer. I perform and record with
+        Tonight's Sunshine and SlowKill, and plan to begin Berklee Online's
+        Master of Music, Music Production Degree in January 2027.
+      </p>
+    </div>
+
+    <div class="space-y-10">
+      <section
+        id="tonights-sunshine"
+        class="border-2 border-zag-dark dark:border-zag-light bg-emerald-100 dark:bg-emerald-950 p-5 sm:p-6"
+      >
+        <h2 class="font-display text-lg sm:text-xl leading-loose">
+          Tonight's Sunshine
+        </h2>
+        <p class="mt-4">
+          I play drums on the band's released recordings except for "Song for a
+          Savers Parking Lot."
+        </p>
+        <div class="flex flex-wrap gap-x-6 gap-y-2 my-5">
+          <a
+            href="https://tonightssunshine.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="zag-offset underline font-medium"
+          >
+            Website
+          </a>
+          <a
+            href="https://www.instagram.com/tonights.sunshine/?hl=en"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="zag-offset underline font-medium"
+          >
+            Instagram
+          </a>
+          <a
+            href="https://open.spotify.com/artist/4q46r0jY684ZEZlXGUJ8Yg"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="zag-offset underline font-medium"
+          >
+            Spotify artist page
+          </a>
+        </div>
+
+        <h3 class="font-display text-sm sm:text-base mt-6 mb-3">
+          Featured tracks
+        </h3>
+        <div class="grid gap-4 md:grid-cols-2">
+          <div>
+            <p class="mb-2 font-medium">"Twenty"</p>
+            <iframe
+              title="Listen to Twenty by Tonight's Sunshine on Spotify"
+              src="https://open.spotify.com/embed/track/6ZpeDRSiAJEx7bjibmVP9I?utm_source=generator"
+              width="100%"
+              height="152"
+              loading="lazy"
+              allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              class="w-full rounded-xl border-0"
+            ></iframe>
+            <a
+              href="https://open.spotify.com/track/6ZpeDRSiAJEx7bjibmVP9I"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="zag-offset underline font-medium"
+            >
+              Open "Twenty" on Spotify
+            </a>
+          </div>
+          <div>
+            <p class="mb-2 font-medium">"Dark"</p>
+            <iframe
+              title="Listen to Dark by Tonight's Sunshine on Spotify"
+              src="https://open.spotify.com/embed/track/1SG6c1yKJfCgfKTT3FwctO?utm_source=generator"
+              width="100%"
+              height="152"
+              loading="lazy"
+              allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              class="w-full rounded-xl border-0"
+            ></iframe>
+            <a
+              href="https://open.spotify.com/track/1SG6c1yKJfCgfKTT3FwctO"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="zag-offset underline font-medium"
+            >
+              Open "Dark" on Spotify
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="slowkill"
+        class="border-2 border-zag-dark dark:border-zag-light bg-sky-100 dark:bg-sky-950 p-5 sm:p-6"
+      >
+        <h2 class="font-display text-lg sm:text-xl leading-loose">SlowKill</h2>
+        <p class="mt-4">
+          I play drums on all of SlowKill's released tracks.
+        </p>
+        <div class="flex flex-wrap gap-x-6 gap-y-2 mt-5">
+          <a
+            href="https://www.instagram.com/slowkill_op/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="zag-offset underline font-medium"
+          >
+            Instagram
+          </a>
+          <a
+            href="https://open.spotify.com/artist/1QsrwNSGaYJEXrQnlxol25"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="zag-offset underline font-medium"
+          >
+            Spotify artist page
+          </a>
+        </div>
+
+        <h3 class="font-display text-sm sm:text-base mt-6 mb-3">
+          Featured tracks
+        </h3>
+        <div class="grid gap-4 md:grid-cols-2">
+          <div>
+            <p class="mb-2 font-medium">"Everywhere but here."</p>
+            <iframe
+              title="Listen to Everywhere but here. by SlowKill on Spotify"
+              src="https://open.spotify.com/embed/track/3KIRPlJmuNXJmlxjH2P6aI?utm_source=generator"
+              width="100%"
+              height="152"
+              loading="lazy"
+              allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              class="w-full rounded-xl border-0"
+            ></iframe>
+            <a
+              href="https://open.spotify.com/track/3KIRPlJmuNXJmlxjH2P6aI"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="zag-offset underline font-medium"
+            >
+              Open "Everywhere but here." on Spotify
+            </a>
+          </div>
+          <div>
+            <p class="mb-2 font-medium">"For you"</p>
+            <iframe
+              title="Listen to For you by SlowKill on Spotify"
+              src="https://open.spotify.com/embed/track/5bcPFzgeJ9x3EfpAk11OAT?utm_source=generator"
+              width="100%"
+              height="152"
+              loading="lazy"
+              allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              class="w-full rounded-xl border-0"
+            ></iframe>
+            <a
+              href="https://open.spotify.com/track/5bcPFzgeJ9x3EfpAk11OAT"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="zag-offset underline font-medium"
+            >
+              Open "For you" on Spotify
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="solo-music"
+        class="border-2 border-zag-dark dark:border-zag-light bg-amber-100 dark:bg-amber-950 p-5 sm:p-6"
+      >
+        <h2 class="font-display text-lg sm:text-xl leading-loose">Solo music</h2>
+        <p class="mt-4 mb-5">
+          A personal track: "Please."
+        </p>
+        <iframe
+          title="Listen to Please by Cougar Bellinger on SoundCloud"
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameborder="no"
+          loading="lazy"
+          src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F2129463222&amp;color=%2310b981&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"
+          class="w-full border-0"
+        ></iframe>
+        <a
+          href="https://soundcloud.com/cougarbellinger/please"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="zag-offset underline font-medium mt-3"
+        >
+          Open "Please" on SoundCloud
+        </a>
+      </section>
+    </div>
+
+    <p class="mt-10">
+      I also have hobby experience with tracking, arranging, editing, mixing,
+      and mastering using FL Studio and Ableton.
+    </p>
+  </Section>
+</Layout>
